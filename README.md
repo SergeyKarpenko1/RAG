@@ -8,8 +8,8 @@ Intelion — компания, занимающаяся продажей май�
 Используемый стек технологий::
 
 	•	Язык программирования: Python
-	•	Фреймворки и библиотеки: Hugging Face, Transformers, OpenAI, FastAPI, LongChain, Chroma
-	•	Модель эмбеддингов: OpenAIEmbeddings (модель: text-embedding-3-small)
+	•	Фреймворки и библиотеки: Hugging Face, Transformers, OpenAI, FastAPI, LongChain, Chroma, RAGAS
+	•	Модель эмбеддингов: OpenAIEmbeddings (модель: text-embedding-3-small/intfloat/multilingual-e5-base)
 	•	LLM для генерации ответов: ChatOpenAI (модель: gpt-4o-mini)
 
 Особенности:
